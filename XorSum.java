@@ -14,4 +14,9 @@ class Solution {
         }
         return sumTotal;
     }
+
+    public char[] BeautifulSubsets(int[] nums, int k) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'BeautifulSubsets'");
+    }
 }
